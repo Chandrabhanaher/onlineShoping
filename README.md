@@ -9,7 +9,7 @@ Using for Android Kotlin
   MYSQl 5.0.12-dev
 ```
 
-#Kotlin Version 1.3.50
+# Kotlin Version 1.3.50
 
 ## Using for Retrofit And RXJava /Rx Android / OKHttp / HttpLoggingInterceptor / Folding animation / Glide / ButterKnife Dependencies
 ```
